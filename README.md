@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">A passionate Software Engineer from Switzerland</h3>
 
-- 🔭 I’m currently working on my [Technical Blog](https://github.com/timhonermann/blog)
-
-- 🌱 I’m currently learning **Spring Security**
-
 - 📝 Blog [https://tim-honermann.com](https://tim-honermann.com)
 
 - 💬 Ask me about **Angular**
